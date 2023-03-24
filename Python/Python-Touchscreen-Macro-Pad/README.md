@@ -11,15 +11,9 @@ Currently, the program doesn;t allow for folders like the Stream deck does, nor 
 It also doesn't support different display sizes currently, but more on this in the possible improvements section.
 
 # How to Use
-<div style = "
-	 background-color: rgba(255, 50, 100, 0.25); 
-	 border-radius: 10px;
-	 ">
-	 <div style="
-	 padding-left: 5px">
-		 How to use manual is yet to be written
-	</div>
-</div>
+
+Yet to write up a user manual
+
 ## examples of uses
 ![Macro Pad example](ExampleUseCase.png)
 # Possible improvements
