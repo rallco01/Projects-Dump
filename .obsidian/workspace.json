@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "998260d9f1163e77",
+    "type": "split",
+    "children": [
+      {
+        "id": "dafcb4ddfdb2cae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c0c33eace1db6b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0da3a3b58161d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/P5JS/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62cb9a408d0ec48e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/ThreeJS/Experiments/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0ed248c0f993078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e59b42faf649a03d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/P5JS/Resume/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ade061c5d4942cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "562e6101935a7a89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30c95a1dc343c3c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "632fc3cf7da5fd9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "378349c801d85b22",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4de5c385aedf589",
+    "type": "split",
+    "children": [
+      {
+        "id": "10d8c6c67777eba4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30c012b6f63d6fcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript/P5JS/Resume/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ac7029c9dd86a61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Javascript/P5JS/Resume/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "341e36cf0d6dcf63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e9588bc4f54a3dd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript/P5JS/Resume/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e59b42faf649a03d",
+  "lastOpenFiles": [
+    "C++/README.md",
+    "Javascript/P5JS/Resume/README.md",
+    "Javascript/P5JS/Resume",
+    "Javascript/P5JS/New folder",
+    "C++/GCD/GCD.cpp",
+    "C++/GCD/GCD",
+    "C++/GCD/ANSITextCodes.h",
+    "C++/GCD",
+    "C++/FizzBuzz/FizzBuzz.cpp",
+    "C++/FizzBuzz/FB.out",
+    "C++/FizzBuzz/ANSITextCodes.h",
+    "C++/FizzBuzz",
+    "AndroidApps/MultipleTimers/RecyclerView/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
+    "AndroidApps/MultipleTimers/RecyclerView/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
+    "AndroidApps/MultipleTimers/RecyclerView/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp",
+    "AndroidApps/MultipleTimers/RecyclerView/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp",
+    "AndroidApps/MultipleTimers/RecyclerView/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp",
+    "AndroidApps/MultipleTimers/RecyclerView/app/src/main/res/mipmap-xhdpi/ic_launcher.webp",
+    "AndroidApps/MultipleTimers/RecyclerView/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp",
+    "AndroidApps/MultipleTimers/RecyclerView/app/src/main/res/mipmap-mdpi/ic_launcher.webp",
+    "AndroidApps/MultipleTimers/RecyclerView/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp",
+    "AndroidApps/MultipleTimers/RecyclerView/app/src/main/res/mipmap-hdpi/ic_launcher.webp",
+    "Javascript/ThreeJS/Experiments/README.md",
+    "Javascript/P5JS/README.md",
+    "Javascript/ThreeJS/Experiments/node_modules/zustand/readme.md",
+    "Javascript/ThreeJS/Experiments/node_modules/zstddec/README.md",
+    "Javascript/ThreeJS/Experiments/node_modules/webgl-sdf-generator/README.md",
+    "Javascript/ThreeJS/Experiments/node_modules/webgl-constants/README.md",
+    "Javascript/ThreeJS/Experiments/node_modules/vite/README.md",
+    "Javascript/ThreeJS/Experiments/node_modules/vite/LICENSE.md",
+    "Javascript/ThreeJS/Experiments/node_modules/utility-types/SUPPORT.md",
+    "Javascript/ThreeJS/Experiments/node_modules/utility-types/SECURITY.md",
+    "Javascript/ThreeJS/Experiments/node_modules/utility-types/README.md",
+    "Javascript/ThreeJS/Experiments/node_modules/utility-types/CHANGELOG.md",
+    "Javascript/ThreeJS/Experiments/node_modules/troika-worker-utils/README.md",
+    "Javascript/ThreeJS/Experiments/node_modules/troika-worker-utils/CHANGELOG.md",
+    "Javascript/ThreeJS/Experiments/node_modules/troika-three-utils/docs/createDerivedMaterial.md",
+    "Javascript/ThreeJS/Experiments/node_modules/troika-three-utils/docs/BezierMesh.md",
+    "Javascript/ThreeJS/Experiments/node_modules/troika-three-utils/README.md",
+    "Javascript/ThreeJS/Experiments/node_modules/troika-three-utils/CHANGELOG.md",
+    "Javascript/ThreeJS/Experiments/node_modules/troika-three-text/README.md",
+    "Javascript/ThreeJS/Experiments/node_modules/troika-three-text/CHANGELOG.md",
+    "Javascript/ThreeJS/Experiments/node_modules/tiny-inflate/readme.md",
+    "Javascript/ThreeJS/Experiments/node_modules/three-stdlib/README.md",
+    "Javascript/ThreeJS/Experiments/node_modules/three-mesh-bvh/README.md",
+    "Javascript/ThreeJS/Experiments/node_modules/three/examples/jsm/nodes/materialx/DISCLAIMER.md"
+  ]
+}

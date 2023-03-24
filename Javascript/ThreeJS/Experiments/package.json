@@ -1,0 +1,22 @@
+{
+  "name": "threejsprototype",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.1.1"
+  },
+  "dependencies": {
+    "@observablehq/stdlib": "^5.4.3",
+    "@react-three/drei": "^9.54.1",
+    "@splinetool/loader": "^0.9.202",
+    "@splinetool/runtime": "^0.9.202",
+    "spline": "^0.0.0",
+    "three": "^0.148.0"
+  }
+}

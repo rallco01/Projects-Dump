@@ -1,0 +1,1 @@
+This is a collection of some of the autohotkey scripts I've made to improve my productivity. This collection will likely grow overtime as I find more things I want to automate.

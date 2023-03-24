@@ -1,0 +1,68 @@
+@import url("https://use.typekit.net/jmk3xov.css");
+
+/* Necessary CSS */
+body {
+  margin: 0;
+}
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -5;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+/* Styling CSS */
+section {
+  width: 100vw;
+  height: 100vh;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.landing {
+  background-color: #ff000050;
+}
+.card {
+  width: 75%;
+  height: 75%;
+  border-radius: 2rem;
+  background-color: #3B6D6C88;
+}
+
+/* CSS to make containers slide in from the sides */
+.reveal {
+  position: relative;
+  opacity: 0;
+  transition: 1.5s all ease;
+}
+.reveal:nth-of-type(odd){
+  transform: translateX(-100vw);
+}
+.reveal:nth-of-type(even){
+  transform: translateX(100vw);
+}
+.reveal.active{
+  transform: translateX(0);
+  opacity: 1;
+}
+
+
+#scrollProgress {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  z-index: 99;
+  font-size: 3vh;
+}
